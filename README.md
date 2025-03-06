@@ -20,11 +20,11 @@ This repository contains the work completed over the past six weeks in my Front-
 - Added basic interactivity to web pages using event listeners.
 - Completed exercises to manipulate the DOM dynamically.
 
-## Week 4: JavaScript & DOM Manipulation
-- Explored DOM traversal and manipulation techniques.
-- Used JavaScript to dynamically update HTML and CSS.
-- Worked with forms, input validation, and user interactions.
-- Built a mini project involving form validation and user feedback.
+## Week 4: JavaScript Objects & Local Storage
+- Explored JavaScript objects, methods, and constructors.
+- Implemented local storage to save and retrieve user data.
+- Created an interactive project that retains user preferences.
+- Completed a final mini-project demonstrating all learned concepts.
 
 ## Week 5: Working with APIs & JSON
 - Learned about RESTful APIs and how to fetch data using `fetch()`.
@@ -32,9 +32,9 @@ This repository contains the work completed over the past six weeks in my Front-
 - Integrated API data into a webpage dynamically.
 - Developed a project that fetches and displays real-time data from an API.
 
-## Week 6: JavaScript Objects & Local Storage
-- Explored JavaScript objects, methods, and constructors.
-- Implemented local storage to save and retrieve user data.
-- Created an interactive project that retains user preferences.
-- Completed a final mini-project demonstrating all learned concepts.
+## Week 6: JavaScript & DOM Manipulation
+- Explored DOM traversal and manipulation techniques.
+- Used JavaScript to dynamically update HTML and CSS.
+- Worked with forms, input validation, and user interactions.
+- Built a mini project involving form validation and user feedback.
 
